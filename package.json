@@ -4,7 +4,7 @@
   "description": "uso de sockets para video llamadas usando socket io over node js",
   "main": "./node_modules/socketio-over-nodejs/signaler-ssl.js",
   "scripts": {
-    "start": "node ./node_modules/socketio-over-nodejs/signaler-ssl.js"
+    "start": "node ./node_modules/socketio-over-nodejs/signaler.js"
   },
   "repository": {
     "type": "git",
