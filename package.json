@@ -2,9 +2,9 @@
   "name": "smartsoftnic",
   "version": "1.0.0",
   "description": "uso de sockets para video llamadas usando socket io over node js",
-  "main": "./node_modules/socketio-over-nodejs/signaler.js",
+  "main": "./node_modules/socketio-over-nodejs/signaler-ssl.js",
   "scripts": {
-    "start": "node ./node_modules/socketio-over-nodejs/signaler.js"
+    "start": "node ./node_modules/socketio-over-nodejs/signaler-ssl.js"
   },
   "repository": {
     "type": "git",
